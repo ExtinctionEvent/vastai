@@ -59,9 +59,8 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 
 1. **Private Document Processing**: Securely process large batches of documents without worrying about data leaks.
 2. **Agent Workflows**: Run long-term agents that don’t rely on token limits—just pay for uptime, no extra costs.
-3. **Custom Language Models**: Build and fine-tune AI models that prioritize privacy and performance.
-4. **Secure Batch Processing**: Run large batch operations for sensitive data analysis without sacrificing confidentiality.
-5. **Research and Development**: Perfect for labs and companies looking for efficient AI model execution without compromising on security.
+3. **Secure Batch Processing**: Run large batch operations for sensitive data analysis without sacrificing confidentiality.
+5. **Research and Development**: Perfect for individuals or small companies looking for efficient AI model execution without compromising on security.
 
 ---
 
@@ -78,8 +77,8 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 ## How to Use the Templates
 
 ### 1. **Select the Template**
-   - Choose the template that fits your hardware.
-   - For example, if you have an H100 GPU, choose the `Qwen 2.5-72B` template optimized for that hardware.
+   - Choose the hardware/template combo - The larger the model the better the performance.
+   - For example, if you want the best experience choose a H100 GPU, Cuda12.4 and use the template below optimised for that hardware.
 
 ### 2. **Start the Instance**
    - Launch the instance and wait for the setup to complete.
@@ -97,7 +96,7 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
      cd /
      app/entrypoint.sh
      ```
-   - Wait for the model files to download and initialize. Be sure to select the correct CUDA version during setup.
+   - Wait for the model files to download and initialize. 
 
 ### 6. **API Access**
    - Copy your API key from the instance log and start making requests using the OpenAI-compatible API.
