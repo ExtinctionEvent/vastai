@@ -54,7 +54,7 @@ To enable a referral payment for me (no extra cost to you) please use these link
 - **VRAM**: 85GB required
 - **Cuda**: 12.4
 
-[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=ab15bbe4a26001cc16e85e2c5201fa3d)
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=12b6e729e7f9e0a5c0de85b9a775ba5b)
 
 ---
 
