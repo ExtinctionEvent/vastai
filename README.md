@@ -5,25 +5,9 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 
 [Vast.ai](https://cloud.vast.ai/?ref_id=167881) is a cloud marketplace that provides affordable GPU rentals for AI workloads. By leveraging Vast.ai's infrastructure, you can run powerful AI models at a fraction of the cost of traditional cloud providers. With flexible hardware options and transparent pricing, Vast.ai is the perfect solution for individuals and teams looking to maximize performance while keeping costs low.
 
-
-## Why Choose These Templates?
-
-### 🔒 Complete Privacy
-- **No Logging**: Your data stays private with no logging, ensuring the highest level of confidentiality.
-- **Self-hosted**: Run models in your own secure instance. No need to worry about third-party data access.
-
-### ⚙️ Simple & Convenient
-- **Minimal Setup**: Deploy in just a few steps with pre-configured templates.
-- **Optimized for GPUs**: Designed to run on a variety of hardware, including H100, RTX 3090, and RTX 4090, ensuring compatibility for your needs.
-
-### 💰 Cost-Effective
-- **Pay Only for Uptime**: No token-based fees, you only pay for the time your instance is running.
-- **Flexible Hardware Options**: Choose the setup that fits your budget, from single GPUs to more powerful configurations.
-- **Top-Quality Models**: Access optimized, state-of-the-art models without breaking the bank.
-
 ---
 
-## Available Templates
+## Available Templates - To enable a referral payment for me (no extra cost to you) please use these links to select your template!
 
 ### 1. Qwen 2.5-72B Instruct OAI API for 1x H100 GPU
 - **Model**: Qwen 2.5-72B Instruct (8-bit quantized, exl2)
@@ -52,6 +36,23 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 - **Cuda**: 12.4
 
 [**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=02f5a7ee57f6e9aece4c4d6b8b6748c7)
+
+--- 
+
+## Why Choose These Templates?
+
+### 🔒 Complete Privacy
+- **No Logging**: Your data stays private with no logging, ensuring the highest level of confidentiality.
+- **Self-hosted**: Run models in your own secure instance. No need to worry about third-party data access.
+
+### ⚙️ Simple & Convenient
+- **Minimal Setup**: Deploy in just a few steps with pre-configured templates.
+- **Optimized for GPUs**: Designed to run on a variety of hardware, including H100, RTX 3090, and RTX 4090, ensuring compatibility for your needs.
+
+### 💰 Cost-Effective
+- **Pay Only for Uptime**: No token-based fees, you only pay for the time your instance is running.
+- **Flexible Hardware Options**: Choose the setup that fits your budget, from single GPUs to more powerful configurations.
+- **Top-Quality Models**: Access optimized, state-of-the-art models without breaking the bank.
 
 ---
 
