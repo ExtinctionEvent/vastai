@@ -7,7 +7,8 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 
 ---
 
-## Available Templates - To enable a referral payment for me (no extra cost to you) please use these links to select your template!
+## Available Templates
+To enable a referral payment for me (no extra cost to you) please use these links to select your template!
 
 ### 1. Qwen 2.5-72B Instruct OAI API for 1x H100 GPU
 - **Model**: Qwen 2.5-72B Instruct (8-bit quantized, exl2)
