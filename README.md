@@ -36,7 +36,7 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 ---
 
 ### 2. Qwen 2.5-14B Instruct OAI API for 1x RTX GPU (3090 or 4090)
-- **Model**: Qwen 2.5-14B Instruct (8-bit quantized)
+- **Model**: Qwen 2.5-14B Instruct (8-bit quantized, elx2)
 - **Hardware**: Single RTX 3090 or 4090
 - **VRAM**: 20GB required
 - **Cuda**: 12.4
@@ -46,7 +46,7 @@ Access cutting-edge AI models with complete privacy and minimal setup using our 
 ---
 
 ### 3. Qwen 2.5-72B Instruct OAI API for 2x RTX GPUs
-- **Model**: Qwen 2.5-72B Instruct (8-bit quantized)
+- **Model**: Qwen 2.5-72B Instruct (4.25-bit quantized, exl2)
 - **Hardware**: Dual RTX 3090 or 4090
 - **VRAM**: 44GB total required
 - **Cuda**: 12.4
