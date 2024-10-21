@@ -16,7 +16,7 @@ To enable a referral payment for me (no extra cost to you) please use these link
 - **VRAM**: 70GB required
 - **Cuda**: 12.4
 
-[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=581b0df498f0062ba1449630e4646e4a)
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=6fc3ed6d33d67d9258082244b4dbd803)
 
 ---
 
@@ -26,7 +26,7 @@ To enable a referral payment for me (no extra cost to you) please use these link
 - **VRAM**: 20GB required
 - **Cuda**: 12.4
 
-[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=49097547d4e3219247f395358f5993f6)
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=fcf0b8a2c67d593169e98034f9f42919)
 
 ---
 
@@ -36,7 +36,36 @@ To enable a referral payment for me (no extra cost to you) please use these link
 - **VRAM**: 44GB total required
 - **Cuda**: 12.4
 
-[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=02f5a7ee57f6e9aece4c4d6b8b6748c7)
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=6f057a434f97d6caf52cb5bed84af33c)
+
+### 4. Mistral Large Instruct OAI API for 1x H100 SXM GPU
+- **Model**: Mistral Large Instruct 2407 (4.75-bit quantized, exl2)
+- **Hardware**: Single H100, CUDA 12.4
+- **VRAM**: 78GB required
+- **Cuda**: 12.4
+
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=dd3ab9761da30b6c6e8d28cfb97ed194)
+
+---
+
+### 5. Mistral Large Instruct OAI API for 1x H100 NVL GPU
+- **Model**: Mistral Large Instruct 2407 (5-bit quantized, exl2)
+- **Hardware**: Single H100, CUDA 12.4
+- **VRAM**: 85GB required
+- **Cuda**: 12.4
+
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=ab15bbe4a26001cc16e85e2c5201fa3d)
+
+---
+
+### 6. Mistral Large Instruct OAI API for 2x H100 GPUs
+- **Model**: Mistral Large Instruct 2407 (8-bit quantized, exl2)
+- **Hardware**: Dual H100s, CUDA 12.4
+- **VRAM**: 110GB required
+- **Cuda**: 12.4
+
+[**Launch Template**](https://cloud.vast.ai/?ref_id=167881&template_id=9b201914ca7c157edf35788ba3ed8203)
+
 
 --- 
 
